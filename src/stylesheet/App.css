@@ -1,0 +1,21 @@
+*{
+  list-style-type: none;
+}
+.title{
+  text-align: center;
+}
+.element{
+  width: 100%;
+  border-bottom: 1px solid black;
+}
+.poke{  
+  border: 2px solid green;
+  border-radius: 10px;
+  width: 150px;
+  padding:10px;
+  margin: 10px;
+}
+.list{
+  display: flex;
+  flex-wrap:wrap;
+}
